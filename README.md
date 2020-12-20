@@ -13,3 +13,9 @@ The aim of this tool is to generate [spectral density](https://en.wikipedia.org/
 3. Run `convert` on the raw sound file, and pipe the output to `data.js`.
 4. Open `dft.html`. Your plot will be generated.
 5. Cry.
+
+## Examples
+
+This is the spectrum plotted for a G note played on the piano. Note the nice crisp overtones at multiples of the fundamental.
+
+![](example-image.png)
