@@ -23,3 +23,7 @@ This is the spectrum plotted for a G note played on the piano. Note the nice cri
 The spectrum of a slide whistle tuned to 875 Hz. Since it is essentially a closed-pipe resonator, it only displays odd harmonics. There is a peak at *n* = 3, around 2630 Hz.
 
 ![](slide-whistle-spectrum.png)
+
+A comparison of a piano's spectrum when the sustain pedal is held (red) or lifted (blue). The overtones are much more pronounced when the sustain pedal is lifted as other strings can sympathetically resonate with the original string when the sustain pedal is held.
+
+![](piano-comparison.png)
