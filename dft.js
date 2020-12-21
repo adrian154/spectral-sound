@@ -1,8 +1,8 @@
 // audio sampling rate
-const SAMPLE_RATE = 44100;
+const SAMPLE_RATE = 48000;
 
-let freqSamps = 1280;
-let maxFreq = 2000; // hz real world
+let freqSamps = 1280 * 2;
+let maxFreq = 10000; // hz real world
 
 let real = new Array(freqSamps).fill(0);
 let imaginary = new Array(freqSamps).fill(0);
@@ -31,8 +31,9 @@ for(let freq = 0; freq < freqSamps; freq++) {
 
 }
 
-ctx.fillStyle = "#ffffff";
-ctx.fillRect(0, 0, canvas.width, canvas.height);
+//ctx.fillStyle = "#ffffff";
+//ctx.fillRect(0, 0, canvas.width, canvas.height);
+
 plot(powers, "#ff0000", 2, 720, maxPower + 20);
 
 let infoElem = document.getElementById("info");

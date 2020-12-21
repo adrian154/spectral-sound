@@ -1,5 +1,6 @@
-.raw
-.mp3
-.mp4
-.exe
+*.raw
+*.mp3
+*.mp4
+*.exe
+*.m4a
 data.js

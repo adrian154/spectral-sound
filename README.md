@@ -19,3 +19,7 @@ The aim of this tool is to generate [spectral density](https://en.wikipedia.org/
 This is the spectrum plotted for a G note played on the piano. Note the nice crisp overtones at multiples of the fundamental.
 
 ![](example-image.png)
+
+The spectrum of a slide whistle tuned to 875 Hz. Since it is essentially a closed-pipe resonator, it only displays odd harmonics. There is a peak at *n* = 3, around 2630 Hz.
+
+![](slide-whistle-spectrum.png)
