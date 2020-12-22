@@ -27,3 +27,7 @@ The spectrum of a slide whistle tuned to 875 Hz. Since it is essentially a close
 A comparison of a piano's spectrum when the sustain pedal is held (red) or lifted (blue). The overtones are much more pronounced when the sustain pedal is lifted as other strings can sympathetically resonate with the original string when the sustain pedal is held.
 
 ![](piano-comparison.png)
+
+Spectrum of a hit metal object. Very dissonant, but there are some tones you can make out which are represented by peaks on the graph.
+
+![](hit-object.png)
